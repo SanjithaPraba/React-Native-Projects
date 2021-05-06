@@ -1,0 +1,1 @@
+export { default as WellnessCenter } from "./src/screens/WellnessCenter.js";

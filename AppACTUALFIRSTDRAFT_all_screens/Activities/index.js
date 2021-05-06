@@ -1,0 +1,1 @@
+export { default as Activities } from "./src/screens/Activities.js";
